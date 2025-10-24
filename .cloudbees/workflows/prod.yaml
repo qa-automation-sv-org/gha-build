@@ -11,4 +11,4 @@ jobs:
         with:
           labels: Go-thu-oct-9
           artifact-id: 533eca2c-c172-4cd4-a57f-7a7505830576
-          target-environment: aspm_qa
+          target-environment: QA
